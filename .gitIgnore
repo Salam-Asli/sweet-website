@@ -1,3 +1,9 @@
-SweetStoreFE\node\
-SweetStoreFe\node_modules\
 SweetsStore\.idea\
+SweetsStore\app\__pycache__
+SweetsStore\venve\
+SweetsStore\requirements.txt
+
+SweetStoreFE\node_modules\
+SweetStoreFE\package.json
+SweetStoreFE\package-lock.json
+SweetStoreFE\README.md
