@@ -2,12 +2,12 @@
 /SweeetsStore/app/__pycache__/
 /SweeetsStore/venve/
 /SweeetsStore/requirements.txt
-/SweetsStore/migrations/script.py.mako
-/SweetsStore/migrations/README
-/SweetsStore/migrations/script.py.mako
-/SweetsStore/migrations/alembic.ini
-/SweetsStore/migrations/__pycache__/
-/SweetsStore/migrations/versions/
+/SweeetsStore/migrations/script.py.mako
+/SweeetsStore/migrations/README
+/SweeetsStore/migrations/script.py.mako
+/SweeetsStore/migrations/alembic.ini
+/SweeetsStore/migrations/__pycache__/
+/SweeetsStore/migrations/versions/
 
 
 /SweetStoreFE/node_modules/
