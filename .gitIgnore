@@ -1,9 +1,16 @@
-SweetsStore\.idea\
-SweetsStore\app\__pycache__
-SweetsStore\venve\
-SweetsStore\requirements.txt
+/SweeetsStore/.idea/
+/SweeetsStore/app/__pycache__/
+/SweeetsStore/venve/
+/SweeetsStore/requirements.txt
+/SweeetsStore/migrations/script.py.mako
+/SweeetsStore/migrations/README
+/SweeetsStore/migrations/script.py.mako
+/SweeetsStore/migrations/alembic.ini
+/SweeetsStore/migrations/__pycache__/
+/SweeetsStore/migrations/versions/
 
-SweetStoreFE\node_modules\
-SweetStoreFE\package.json
-SweetStoreFE\package-lock.json
-SweetStoreFE\README.md
+
+/SweetStoreFE/node_modules/
+/SweetStoreFE/package.json
+/SweetStoreFE/package-lock.json
+/SweetStoreFE/README.md
